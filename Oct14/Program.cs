@@ -38,7 +38,7 @@ namespace Oct14
             al.Add(0.5f);
             al.AddRange(al1);
 
-            al.Remove("Ramesh");
+            al.Remove("Rameshwar");
             al.RemoveAt(2);
 
             foreach (object o in al)
